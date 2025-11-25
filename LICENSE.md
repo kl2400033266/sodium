@@ -1,3 +1,4 @@
+<!-- Feature 3: Updated LICENSE -->
 # PolyForm Shield License 1.0.0
 
 <https://polyformproject.org/licenses/shield/1.0.0>
