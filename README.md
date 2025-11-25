@@ -1,3 +1,4 @@
+<!-- Feature 1: Updated README -->
 <img src="common/src/main/resources/sodium-icon.png" width="128">
 
 # Sodium
